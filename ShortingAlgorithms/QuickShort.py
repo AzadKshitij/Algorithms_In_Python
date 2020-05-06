@@ -8,7 +8,7 @@ and we done the same process over and over again till the condition breaks
 '''
 
 
-def short1(List):
+def quick_short(List):
     length = len(List)
     lower = []
     heigher = []
